@@ -1,0 +1,8 @@
+c-baseline/baseline*
+golang*/bench-*
+rust*/target
+*/go.sum
+*.csv
+*.txt
+*/Cargo.lock
+*/*.class
